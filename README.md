@@ -1,4 +1,15 @@
-# Hanzlarepository-demo
-This is my first github repository 
-<br>
-I am doing my first experience on it
+# Hanzla Shehzad
+
+Software Engineering Student
+
+## Skills
+- C++
+- Python
+- Flutter (Learning)
+- Web Development (Learning)
+
+## Goals
+- Become Top Software Engineer
+- Learn DSA
+- Learn AI
+- Build Strong Portfolio
